@@ -287,7 +287,8 @@ CMD ["streamlit", "run", "src/app.py", "--server.port=8501"]
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is for hackathon submission only and is **not licensed for public use** without permission.
+
 
 ## 🙏 Acknowledgments
 
@@ -299,6 +300,7 @@ This project is open source and available under the MIT License.
 ---
 
 **♻️ Built with ❤️ for Sustainable Waste Management**
+
 
 
 
