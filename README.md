@@ -296,11 +296,12 @@ This project is for hackathon submission only and is **not licensed for public u
 - CatBoost developers for the ML library
 - Open source community for visualization tools
 - Municipal authorities for data collaboration
-- **PWskills** for organizing the hackathon and providing the platform, dataset, and guidance
+- **PWSkills** for organizing the hackathon and providing the platform, dataset, and guidance
 
 ---
 
 **♻️ Built with ❤️ for Sustainable Waste Management**
+
 
 
 
