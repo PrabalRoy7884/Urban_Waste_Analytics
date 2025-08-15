@@ -285,6 +285,22 @@ CMD ["streamlit", "run", "src/app.py", "--server.port=8501"]
 - Submit pull requests
 - Follow coding standards
 
+## 📂 Predictions File
+
+The repository includes a `predictions.csv` file which stores model predictions along with the corresponding input parameters.  
+
+**How it Works:**  
+- When you navigate to the **Predictor** page in the app and use the **Predict Recycling Rate** feature, the entered parameters and the predicted recycling rate are **automatically saved** to `predictions.csv`.  
+- The file contains both the **user inputs** and the **model’s prediction** for reference or further analysis.  
+- This logging functionality is **only active in local execution**. For deployed versions (e.g., Render), predictions are generated but **not saved** to the file due to server storage limitations.  
+
+**File Structure:**  
+| City/District | Year | Waste Type | Disposal Method | Municipal Efficiency | Cost of Waste (₹/Ton) | Landfill Capacity (Tons) | Awareness Campaigns | Predicted Recycling Rate (%) |  
+|---------------|------|------------|-----------------|----------------------|-----------------------|--------------------------|---------------------|------------------------------|  
+
+**Example:**  
+| Agra | 2024 | Plastic | Recycling | 9 | 3056 | 500000 | 14 | 66.91 | 
+
 ## 📄 License
 
 This project is for hackathon submission only and is **not licensed for public use** without permission.
@@ -301,6 +317,7 @@ This project is for hackathon submission only and is **not licensed for public u
 ---
 
 **♻️ Built with ❤️ for Sustainable Waste Management**
+
 
 
 
