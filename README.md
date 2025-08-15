@@ -299,7 +299,7 @@ The repository includes a `predictions.csv` file which stores model predictions 
 |---------------|------|------------|-----------------|----------------------|-----------------------|--------------------------|---------------------|------------------------------|  
 
 **Example:**  
-| Agra | 2024 | Plastic | Recycling | 9 | 3056 | 500000 | 14 | 66.91 | 
+| Agra          | 2024 | Plastic    | Recycling       | 9                    | 3056 | 500000 | 14 | 66.91 | 
 
 ## 📄 License
 
@@ -317,6 +317,7 @@ This project is for hackathon submission only and is **not licensed for public u
 ---
 
 **♻️ Built with ❤️ for Sustainable Waste Management**
+
 
 
 
