@@ -66,7 +66,7 @@ streamlit run app.py
 Open your browser and go to: `http://localhost:8501`
 
 **Or access the deployed version here:**  
-👉 [Waste Management App Live UI]([https://waste-management-analytics.streamlit.app](https://waste-management-11.onrender.com/))
+👉 [Waste Management App Live UI] :[https://waste-management-analytics.streamlit.app](https://waste-management-11.onrender.com/)
 
 
 ## 🏗️ Project Structure
@@ -321,6 +321,7 @@ This project is for hackathon submission only and is **not licensed for public u
 ---
 
 **♻️ Built with ❤️ for Sustainable Waste Management**
+
 
 
 
